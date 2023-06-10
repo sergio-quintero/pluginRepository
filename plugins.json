@@ -745,6 +745,14 @@
     "provider": "kubernetes",
     "releases": [
       {
+        "version": "v2.0.0-SNAPSHOT",
+            "date": "2023-06-10T00:23:45.300667Z",
+            "requires": "clouddriver>=0.0.0",
+            "sha512sum": "7a0ae6b30840dd9337b0fe2b5e775f81be83492d2eb158e706fa2d896087d5a107e987a98c0a5a3c30fe4717f0eef733688e55daadf7a19b75557863e90656bb",
+            "state": "",
+            "url": ""
+      },
+      {
         "version": "2.0.2",
         "date": "2023-05-30T20:24:56.150880Z",
         "requires": "clouddriver>=0.0.0",
