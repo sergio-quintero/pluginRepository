@@ -754,6 +754,13 @@
     "provider": "https://armory.io",
     "releases": [
       {
+            "version": "0.2.0-SNAPSHOT",
+            "date": "2023-11-07T17:05:27.427109Z",
+            "requires": "clouddriver>=0.0.0,gate>=0.0.0",
+            "sha512sum": "581fb20f20bf5a1fdb930b009183a260d2d94cad7fad926eacb804a6c8d7d718c6f63a0a5626b331b0516943d5cf437c89c115c53819784653ff35dd89fc088d",
+            "url": "https://github.com/sergio-quintero/pluginRepository/releases/download/0.2.0-snapshot/cache-aws-agents-on-event-0-2-0-dirty-SNAPSHOT.zip"
+      },
+      {
         "version": "0.1.0",
         "date": "2022-11-30T05:18:03.145235Z",
         "requires": "clouddriver>=0.0.0,gate>=0.0.0",
