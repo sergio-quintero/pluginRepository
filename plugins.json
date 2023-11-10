@@ -755,9 +755,9 @@
     "releases": [
       {
             "version": "0.7.0-SNAPSHOT",
-            "date": "2023-11-10T19:42:14.667639Z",
+            "date": "2023-11-10T20:04:21.914222Z",
             "requires": "clouddriver>=0.0.0,gate>=0.0.0",
-            "sha512sum": "86cc575a7833031879d857f3d8a8a34e5abe737907a2652f1c07363b63f8bcd548c3de016db9b8b1deaae67fd73df926cff635d9fc3346024aef6bff9e34f149",
+            "sha512sum": "62c6ec93e81de68bd4bc24596cf8c869efbac22cf07b5ecae15b7d0fb457aaa1975ecdf3a9bcf15ca0efa25810146ec2b88ded91ccd9e5f70f3566d64df4ed0e",
             "url": "https://github.com/sergio-quintero/pluginRepository/releases/download/0.7.0-SNAPSHOT/cache-aws-agents-on-event-0e47cd5.zip"
       },
       {
