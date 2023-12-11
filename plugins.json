@@ -754,11 +754,11 @@
     "provider": "https://armory.io",
     "releases": [
       {
-        "version": "1.1.0-SNAPSHOT",
-            "date": "2023-12-11T21:52:05.712132Z",
+        "version": "1.2.0-SNAPSHOT",
+            "date": "2023-12-11T22:19:37.822639Z",
             "requires": "clouddriver>=0.0.0,gate>=0.0.0",
-            "sha512sum": "d31b5af1434854f3d0c7aaa4d20f5a3b1d49a6d4b20872c24352329592282f755f5230b9da5aa6c96cbfe0472c9f141ad0f56d871abe01daba9a5d41fc3825fa",
-        "url": "https://github.com/sergio-quintero/pluginRepository/releases/download/1.1.0-SNAPSHOT/cache-aws-agents-on-event-v0.2.1.dirty-SNAPSHOT.zip"
+            "sha512sum": "1edd1c8ad8745b93fb60bc5715c613b8847998e2c2d443f2c60fa94e0812d08b704cbdeaa58617012246e963c8dc9539478ea5812d211f757010a64f42860baf",
+        "url": "https://github.com/sergio-quintero/pluginRepository/releases/download/1.2.0-SNAPSHOT/cache-aws-agents-on-event-v0.2.1.dirty-SNAPSHOT.zip"
       },  
       {
         "version": "0.2.1",
