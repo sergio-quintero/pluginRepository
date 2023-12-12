@@ -755,9 +755,9 @@
     "releases": [
       {
         "version": "0.2.2-SNAPSHOT",
-            "date": "2023-12-11T23:23:13.660188Z",
+            "date": "2023-12-12T00:53:07.934144Z",
             "requires": "clouddriver>=0.0.0,gate>=0.0.0",
-            "sha512sum": "65449aa59feace454b2de276fe515cf879d5b699ecf301160f026f34b42d97041bdee658afb3a48e8844bafcbdf8511a68811a0496a151cdcfc3ec87a5d6ff6a",
+            "sha512sum": "bc2fc766f43187724f3ceba14a278bd17f2d90da974eace28f5dae82a99eba5679886d6bb4664459eae62c0fce2605d21f1f52a31d37c535d54d82fcfee0b9ee",
         "url": "https://github.com/sergio-quintero/pluginRepository/releases/download/cats-0.2.2-snapshot/cache-aws-agents-on-event-0.2.2-SNAPSHOT.zip"
       },
       {
