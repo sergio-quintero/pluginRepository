@@ -754,7 +754,7 @@
     "provider": "https://armory.io",
     "releases": [
       {
-        "version": "0.2.2-SNAPSHOT",
+        "version": "0.2.3-SNAPSHOT",
             "date": "2023-12-12T00:53:07.934144Z",
             "requires": "clouddriver>=0.0.0,gate>=0.0.0",
             "sha512sum": "bc2fc766f43187724f3ceba14a278bd17f2d90da974eace28f5dae82a99eba5679886d6bb4664459eae62c0fce2605d21f1f52a31d37c535d54d82fcfee0b9ee",
